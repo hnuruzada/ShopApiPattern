@@ -1,0 +1,16 @@
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\bin\Debug\netcoreapp3.1\Shop.Data.deps.json
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\bin\Debug\netcoreapp3.1\Shop.Data.runtimeconfig.json
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\bin\Debug\netcoreapp3.1\Shop.Data.runtimeconfig.dev.json
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\bin\Debug\netcoreapp3.1\Shop.Data.dll
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\bin\Debug\netcoreapp3.1\Shop.Data.pdb
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.AssemblyInfo.cs
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.csproj.CopyComplete
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.dll
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.pdb
+C:\Users\Hesen\source\repos\ShopProject\Shop.Data\obj\Debug\netcoreapp3.1\Shop.Data.genruntimeconfig.cache

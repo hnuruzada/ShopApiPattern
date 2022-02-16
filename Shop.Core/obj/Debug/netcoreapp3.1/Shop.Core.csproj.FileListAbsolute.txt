@@ -1,0 +1,10 @@
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.deps.json
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\bin\Debug\netcoreapp3.1\Shop.Core.pdb
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.AssemblyInfo.cs
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.dll
+C:\Users\Hesen\source\repos\ShopProject\Shop.Core\obj\Debug\netcoreapp3.1\Shop.Core.pdb
